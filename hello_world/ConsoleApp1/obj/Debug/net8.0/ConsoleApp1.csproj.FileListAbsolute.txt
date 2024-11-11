@@ -1,0 +1,15 @@
+/home/victor/Projects/Reuso_de_software/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/home/victor/Projects/Reuso_de_software/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/home/victor/Projects/Reuso_de_software/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/home/victor/Projects/Reuso_de_software/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/home/victor/Projects/Reuso_de_software/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/home/victor/Projects/Reuso_de_software/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/Projects/Reuso_de_software/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/victor/Projects/Reuso_de_software/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/home/victor/Projects/Reuso_de_software/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/victor/Projects/Reuso_de_software/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/home/victor/Projects/Reuso_de_software/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/home/victor/Projects/Reuso_de_software/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/home/victor/Projects/Reuso_de_software/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/home/victor/Projects/Reuso_de_software/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/home/victor/Projects/Reuso_de_software/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
